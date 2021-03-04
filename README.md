@@ -8,4 +8,7 @@
 <p> A few examples on how to use PASSta to comapre between planetary sytems and catalogs are found at the above Jupiter notebooks. </p>
 
 <h2 style="font-family:courier;">Installation</h2>
-You can download or clone PASSta package from GitHub or use this pip install command:
+<p>You can download or clone PASSta package from GitHub or simply use this pip install command:</p>
+
+<p>pip install git+https://github.com/dolevbas/PASSta.git#egg=PASSta</p>
+
