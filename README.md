@@ -5,10 +5,13 @@
 
 ![Image of PASSta](https://github.com/dolevbas/PASSta/blob/main/PASSta.jpg)
 
-<p> A few examples on how to use PASSta to comapre between planetary sytems and catalogs are found at the above Jupiter notebooks. </p>
+<p> A few examples on how to use PASSta to comapre between planetary sytems and catalogs are found at above Jupiter notebooks. </p>
 
 <h2 style="font-family:courier;">Installation</h2>
 <p>You can download or clone PASSta package from GitHub or simply use this pip install command:</p>
 
-<p>pip install git+https://github.com/dolevbas/PASSta.git#egg=PASSta</p>
+
+```
+pip install git+https://github.com/dolevbas/PASSta.git#egg=PASSta
+```
 
