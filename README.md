@@ -1,7 +1,7 @@
 
 <h1 style="font-family:courier;">PASSta</h1>
 
-<p> <b>PASSta</b> -- <b>P</b>lanetary <b>A</b>rchitecture <b>S</b>ystem <b>Sta</b>tistics is a public Python package with implementation of tools useful to compare between planetary catalogues. </p>
+<p> <b>PASSta</b> -- <b>P</b>lanetary <b>A</b>rchitecture <b>S</b>ystem <b>Sta</b>tistics is a public Python package with implementation of tools useful to compare between planetary catalogues. See also at: https://arxiv.org/abs/2106.00688. </p>
 
 ![Image of PASSta](https://github.com/dolevbas/PASSta/blob/main/PASSta.jpg)
 
